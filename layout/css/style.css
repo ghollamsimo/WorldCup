@@ -1,0 +1,12 @@
+.card-d{
+    display: grid;
+    grid-template-columns: repeat(4,1fr) !important;
+    margin: 40px;
+}
+.button{
+text-align: center;
+}
+
+
+
+
