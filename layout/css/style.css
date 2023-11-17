@@ -6,7 +6,19 @@
 .button{
 text-align: center;
 }
+nav{
+    background-color: black;
+}
+.filter{
+    text-align: center !important;
+}
+/* button{
+    background-color: black !important;
+} */
 
 
-
-
+@media only screen and (max-width: 1024px){
+    .card-d{
+        grid-template-columns: 1fr;
+    }
+}
